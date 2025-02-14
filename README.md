@@ -6,7 +6,7 @@ Challenge your friends and see who wins! 🎮
 
 📌 Live Demo
 
-🚀 Play Tic-Tac-Toe Now! (Replace with your live link)
+🚀 Play Tic-Tac-Toe Now! 
 
  
 🛠️ Features
@@ -72,7 +72,7 @@ cd Tic-Tac-Toe
 
 💖 If you liked this project, don’t forget to star ⭐ the repository!
 
-🔗 Follow me on GitHub: 
+🔗 Follow me on GitHub: @malganisridhargoud
 
 🚀 Enjoy Playing Tic-Tac-Toe! 🎉
 
