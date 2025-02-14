@@ -8,11 +8,7 @@ Challenge your friends and see who wins! 🎮
 
 🚀 Play Tic-Tac-Toe Now! (Replace with your live link)
 
-🖼️ Preview
-
-
  
-
 🛠️ Features
 
 ✅ Interactive 3×3 game board
@@ -32,7 +28,7 @@ Challenge your friends and see who wins! 🎮
 
 💻 Clone the repository
 
-git clone https://github.com/yourusername/Tic-Tac-Toe.git
+git clone : https://tic-tac-toe-ten-peach-45.vercel.app
 
 📂 Navigate to the project folder
 
@@ -46,16 +42,7 @@ cd Tic-Tac-Toe
 1️⃣ Click on any empty cell to place your mark (X or O).
 2️⃣ Players take turns marking spaces.
 3️⃣ Win the game by getting 3 marks in a row, column, or diagonal.
-4️⃣ Click “Restart Game” to play again!
-
-📸 Screenshots:
-
-🎮 Game Start:
-
-
-🏆 Winning Moment:
-
-(Replace with your actual game screenshots!)
+4️⃣ Click “Restart Game” to play again ! 
 
 🛠️ Technologies Used
 	•	✅ HTML - For structuring the game board
